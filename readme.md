@@ -1,6 +1,6 @@
 ## Join the Community
 
-For more insights and discussions, join Curious PM at [https://curious.pm](https://curious.pm) to connect, share, and learn with others.
+For more insights and discussions, join Curious PM at [Curious PM](https://curious.pm) to connect, share, and learn with others.
 
 
 # OpenAi DALL-E 3 Image Generation
@@ -75,7 +75,7 @@ endpoint = "your_endpoint_url_here"
 
 ## Screenshots
 
-[Result](https://github.com/user-attachments/assets/fa8b3e76-086b-4e81-8849-3869b946b8a6)
+![Generated Image](https://github.com/user-attachments/assets/fa8b3e76-086b-4e81-8849-3869b946b8a6)
 
 ## Hosted Version
 
