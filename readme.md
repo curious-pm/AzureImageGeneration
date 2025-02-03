@@ -79,7 +79,7 @@ endpoint = "your_endpoint_url_here"
 
 ## Hosted Version
 
-(Add the link to the hosted version of the application here.)
+[Test the application](https://azureimagegeneration.streamlit.app)
 
 ## Video Explanation
 
