@@ -75,7 +75,7 @@ endpoint = "your_endpoint_url_here"
 
 ## Screenshots
 
-(Add screenshots here showcasing the app's interface, the input prompt area, the sidebar with revised prompt and URL, and the generated image.)
+[Result](https://github.com/user-attachments/assets/fa8b3e76-086b-4e81-8849-3869b946b8a6)
 
 ## Hosted Version
 
